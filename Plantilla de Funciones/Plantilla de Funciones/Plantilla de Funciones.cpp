@@ -80,7 +80,10 @@ int main()
 				cout << "El numero mas chico es: " << min(la,lb) << endl;
 			break;
 
-		default: cout << "ERROR"  << endl;
+		default: if(option == 4)
+					 cout<<" "<<endl;
+				 else
+					 cout << "ERROR"  << endl;
 			break;
 		}
 	}while(option !=  4);

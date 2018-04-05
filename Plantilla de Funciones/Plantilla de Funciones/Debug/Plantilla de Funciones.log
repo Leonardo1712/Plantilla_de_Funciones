@@ -1,4 +1,4 @@
-﻿Build started 4/5/2018 6:05:48 PM.
+﻿Build started 4/5/2018 6:14:42 PM.
      1>Project "C:\Users\LRodriguez\Documents\GitHub\Plantilla_de_Funciones\Plantilla de Funciones\Plantilla de Funciones\Plantilla de Funciones.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Plantilla de Funciones.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Plantilla de Funciones.cpp"
@@ -11,4 +11,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.73
+Time Elapsed 00:00:00.77
