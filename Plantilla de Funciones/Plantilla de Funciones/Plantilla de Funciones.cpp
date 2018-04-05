@@ -5,7 +5,7 @@
 #include <iostream>
 
 using namespace std;
-
+/*
 //datos enteros (int)
 int min (int a, int b)
 {
@@ -28,6 +28,14 @@ double min (double a, double b)
 	if (a <= b)
 		return a;
 	return b;
+}
+*/
+template <class T> T min (T a, T b)
+{
+	if(a <= b)
+		return a;
+	else
+		return b;
 }
 
 int main()
